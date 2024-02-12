@@ -16,12 +16,12 @@
 <p align="middle">        
 <a href="https://telegram.dog/KUSHALHK"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-purple.svg?logo=telegram"></a>
 
-[![Stars](https://img.shields.io/github/stars/Kushalhk/TG_BOTZ?style=flat-square&color=blue)](https://github.com/Kushalhk/TG_BOTZ)
-[![Forks](https://img.shields.io/github/forks/Kushalhk/TG_BOTZ?style=flat-square&color=red)](https://github.com/Kushalhk/TG_BOTZ/fork)
-[![Size](https://img.shields.io/github/repo-size/Kushalhk/TG_BOTZ?style=flat-square&color=orange)](https://github.com/Kushalhk/TG_BOTZ)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Kushalhk/TG_BOTZ)   
-[![Contributors](https://img.shields.io/github/contributors/Kushalhk/TG_BOTZ?style=flat-square&color=pink)](https://github.com/Kushalhk/TG_BOTZ/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/LICENSE)
+[![Stars](https://img.shields.io/github/stars/Tamilupdates/TG_BOTZ?style=flat-square&color=blue)](https://github.com/Tamilupdates/TG_BOTZ)
+[![Forks](https://img.shields.io/github/forks/Tamilupdates/TG_BOTZ?style=flat-square&color=red)](https://github.com/Tamilupdates/TG_BOTZ/fork)
+[![Size](https://img.shields.io/github/repo-size/Tamilupdates/TG_BOTZ?style=flat-square&color=orange)](https://github.com/Tamilupdates/TG_BOTZ)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Tamilupdates/TG_BOTZ)   
+[![Contributors](https://img.shields.io/github/contributors/Tamilupdates/TG_BOTZ?style=flat-square&color=pink)](https://github.com/Tamilupdates/TG_BOTZ/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Tamilupdates/TG_BOTZ/blob/stream-feature/LICENSE)
 
 <b>All this codes are created by our developers 
 
@@ -148,13 +148,13 @@ we are nothing without your support please support us to bring more features in 
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/info.py) for more optional variables
+* Check [info.py](https://github.com/Tamilupdates/TG_BOTZ/blob/stream-feature/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kushalhk/TG_BOTZ">
+<a href="https://heroku.com/deploy?template=https://github.com/Tamilupdates/TG_BOTZ">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -166,7 +166,7 @@ we are nothing without your support please support us to bring more features in 
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Kushalhk/TG_BOTZ&branch=stream-feature&name=TG_FILTER_BOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Tamilupdates/TG_BOTZ&branch=stream-feature&name=TG_FILTER_BOT)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -193,7 +193,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/Kushalhk/TG_BOTZ/tree/stream-feature">
+<a href="https://render.com/deploy?repo=https://github.com/Tamilupdates/TG_BOTZ/tree/stream-feature">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -201,7 +201,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Kushalhk/TG_BOTZ
+git clone https://github.com/Tamilupdates/TG_BOTZ
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
